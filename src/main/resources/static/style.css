@@ -1,0 +1,28 @@
+h1 {
+    color: purple;
+    background-color: pink;
+}
+
+h2 {
+    color: black;
+    background-color: violet;
+    width:1000px;
+    margin-left: 350px;
+}
+
+p {
+    margin-left:350px;
+}
+
+li {
+    margin-left: 350px;
+}
+
+img {
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-left: 90px;
+    margin: 1px 0 1px 1px;
+}
+
